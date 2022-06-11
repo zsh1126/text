@@ -1,0 +1,4 @@
+﻿  text.c
+E:\daima\求长度\text.c(20,7): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+E:\daima\求长度\text.c(33,14): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  求长度.vcxproj -> E:\daima\求长度\x64\Debug\求长度.exe
