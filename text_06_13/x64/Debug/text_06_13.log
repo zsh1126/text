@@ -1,0 +1,18 @@
+﻿  text.c
+E:\daima\text_06_13\text.c(74,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(74,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(75,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(75,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(77,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(77,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(78,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(78,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(80,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(80,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(81,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(81,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(83,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(83,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+E:\daima\text_06_13\text.c(84,16): warning C4474: printf: 格式字符串中传递的参数太多
+E:\daima\text_06_13\text.c(84,16): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+  text_06_13.vcxproj -> E:\daima\text_06_13\x64\Debug\text_06_13.exe
