@@ -1,0 +1,8 @@
+﻿  操作符.c
+E:\daima\text_06_14\操作符.c(148,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\daima\text_06_14\操作符.c(148,9): message : 请考虑在格式字符串中使用“%zu”
+E:\daima\text_06_14\操作符.c(149,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\daima\text_06_14\操作符.c(149,9): message : 请考虑在格式字符串中使用“%zu”
+E:\daima\text_06_14\操作符.c(150,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\daima\text_06_14\操作符.c(150,9): message : 请考虑在格式字符串中使用“%zu”
+  text_06_14.vcxproj -> E:\daima\text_06_14\x64\Debug\text_06_14.exe
