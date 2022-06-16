@@ -1,0 +1,3 @@
+﻿  指针.c
+E:\daima\text_06_15\指针.c(49,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  text_06_15.vcxproj -> E:\daima\text_06_15\x64\Debug\text_06_15.exe
